@@ -1,13 +1,14 @@
 # Infrastructure required: <br/>
 1) Java JDK 8 or above <br/>
 2) Command prompt <br/>
-<br/>
-# Instructions: <br/>
+
+# Running the Engine: <br/>
 COMPILATION: javac -d . *.java <br/>
 
 EXECUTION: java SearchEngine/SearchEngine input/stopwordlist.txt input/ft911 input/topics.txt input/main.qrels 1 10 <br/>
-<br/>
-# SAMPLE OUTPUT <br/>
+
+# SAMPLE OUTPUT: <br/>
+
         DOCUMENT STATISTICS<br/>
 ***************************************<br/>
 WORDS PARSED: 32843<br/>
