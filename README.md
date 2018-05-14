@@ -7,7 +7,7 @@ COMPILATION: javac -d . *.java <br/>
 
 EXECUTION: java SearchEngine/SearchEngine input/stopwordlist.txt input/ft911 input/topics.txt input/main.qrels 1 10 <br/>
 
-# SAMPLE OUTPUT: <br/>
+# Sample Output <br/>
 
         DOCUMENT STATISTICS<br/>
 ***************************************<br/>
@@ -27,7 +27,7 @@ PRECISION: 30.0 %<br/>
 RECALL: 54.54545454545454 %<br/>
 ***************************************<br/>
 <br/>
-# COMMAND LINE ARGS <br/>
+# Command line arguments <br/>
 Argument 1: Stop words list (stopwordlist.txt)<br/>
 Argument 2: Documents folder (ft911)<br/>
 Argument 3: Query file (topics.txt)<br/>
