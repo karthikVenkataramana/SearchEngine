@@ -8,8 +8,7 @@ COMPILATION: javac -d . *.java <br/>
 EXECUTION: java SearchEngine/SearchEngine input/stopwordlist.txt input/ft911 input/topics.txt input/main.qrels 1 10 <br/>
 
 # Sample Output <br/>
-
-        DOCUMENT STATISTICS<br/>
+        DOCUMENT STATISTICS
 ***************************************<br/>
 WORDS PARSED: 32843<br/>
 DOCUMENTS PARSED: 5368<br/>
