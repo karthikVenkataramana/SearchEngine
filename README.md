@@ -26,7 +26,7 @@ TOTAL NUMBER OF DOCS WHICH ARE RELEVANT: 22<br/>
 PRECISION: 30.0 %<br/>
 RECALL: 54.54545454545454 %<br/>
 ***************************************<br/>
-<br/>
+![Output] (https://github.com/karthikVenkataramana/SearchEngine/blob/master/output/vsm_output.txt) <br/>
 # Command line arguments <br/>
 Argument 1: Stop words list (stopwordlist.txt)<br/>
 Argument 2: Documents folder (ft911)<br/>
